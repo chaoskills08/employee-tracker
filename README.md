@@ -7,6 +7,8 @@ To install, you must first `git clone` the repo. Once it is installed locally, y
 This is used to keep track of employees across various departments, their salaries and who they report to.
 ## People who have contributed to this project
 chaoskills08
+## Video Walkthrough
+https://drive.google.com/file/d/1VbroDBCsP2qIW5ZJBmtmC_jDrLHyy15M/view
 ## Created By:
 [GitHub link: chaoskills08](https://github.com/chaoskills08)
   
